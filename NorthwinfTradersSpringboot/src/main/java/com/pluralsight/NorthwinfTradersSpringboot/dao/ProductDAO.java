@@ -1,6 +1,7 @@
 package com.pluralsight.NorthwinfTradersSpringboot.dao;
 
 import com.pluralsight.NorthwinfTradersSpringboot.model.Product;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
